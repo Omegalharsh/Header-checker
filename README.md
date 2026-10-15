@@ -32,7 +32,7 @@ Other highlights:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/HeaderChecker.git
+git clone https://github.com/Omegalharsh/HeaderChecker.git
 cd HeaderChecker
 pip install requests
 ```
